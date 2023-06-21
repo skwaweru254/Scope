@@ -18,6 +18,14 @@ public class Main {
 
         /*float cost = obj.cost;*/
 
+        BlockLevel bl = new BlockLevel();
+
+        System.out.println(bl.greetings());
+
+        //bl.a can only accessed within the block
+
+        //System.out.println(bl.a);
+
 
     }
 }
