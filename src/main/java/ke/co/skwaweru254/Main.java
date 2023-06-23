@@ -26,6 +26,12 @@ public class Main {
 
         //System.out.println(bl.a);
 
+        MethodLevel ml = new MethodLevel();
+
+        System.out.println(ml.drinking());
+
+        System.out.println(ml.eating());
+
 
     }
 }
